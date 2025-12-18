@@ -1,0 +1,4 @@
+Estructura,Insercion_ms,Busqueda_Existente_ms,Busqueda_Inexistente_ms,Eliminacion_ms
+BT,1054.68,2.2079,146.442,129.206
+BST,12.5081,0.1003,0,0.7655
+AVL,19.6975,0.1234,0.0058,1.2202
