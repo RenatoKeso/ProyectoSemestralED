@@ -20,31 +20,7 @@ Se miden los tiempos promedio de:
 - Búsqueda de elementos inexistentes  
 - Eliminación de elementos  
 
----
 
-## 📂 Estructura del Proyecto
-
-```
-ProyectoED/
-│
-├── Air_Quality.csv
-├── AirRecord.h
-├── Lector_CSV.h
-│
-├── BT.h
-├── BST.h
-├── AVL.h
-│
-├── Main.cpp
-├── MainBenchmark.cpp
-│
-├── resultados_tiempos.csv
-├── graficos.py
-│
-└── README.md
-```
-
----
 
 ## ⚙️ Requisitos
 
@@ -53,7 +29,7 @@ ProyectoED/
 - **Python 3**
 - Librería `matplotlib`
 
----
+
 
 ## ▶️ Compilar y Ejecutar
 
@@ -100,19 +76,6 @@ Ejecutar:
 ```bash
 python graficos.py
 ```
-
-Se generan:
-
-- `grafico_lineal.png`
-- `grafico_barras.png`
-
----
-
-## 📈 Resumen de Resultados
-
-- **BT**: Peor rendimiento (operaciones O(n))
-- **BST**: Buen rendimiento, depende del orden de inserción
-- **AVL**: Inserción un poco más lenta, pero búsquedas más rápidas y estables
 
 ---
 
