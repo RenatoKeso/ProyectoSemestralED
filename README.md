@@ -55,11 +55,6 @@ g++ -std=c++17 MainBenchmark.cpp -O2 -o BenchmarkED
 BenchmarkED.exe
 ```
 
-Esto genera el archivo:
-
-```
-resultados_tiempos.csv
-```
 
 ---
 
