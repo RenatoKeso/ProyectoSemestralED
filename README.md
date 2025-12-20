@@ -52,7 +52,7 @@ g++ -std=c++17 MainBenchmark.cpp -O2 -o BenchmarkED
 ```
 
 ```bash
-BenchmarkED.exe
+./BenchmarkED.exe
 ```
 
 
